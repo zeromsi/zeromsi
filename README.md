@@ -3,7 +3,7 @@
 I'm Md Shahidul Islam, currently working as a Software Engineer at Klovercloud. We're developing a PaaS.
 
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shahidul-islams-profile/)  [![Blog Follow](https://img.shields.io/badge/BLOG-Follow-orange?color=212121)](https://web.facebook.com/BeskoristanShahidul)  [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/BeskoristanShahidul)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shahidul-islams-profile/)  [![Blog Follow](https://img.shields.io/badge/BLOG-Follow-orange?color=212121)](https://zerospoint.blogspot.com/)  [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/BeskoristanShahidul)
 
 #### My skills:
 ```
@@ -51,8 +51,5 @@ microservices.
 Software Engineer (12/2019 – present)
 Klovercloud, Dhaka.
 - Developing a PaaS.
-
-## Reach me:
-- shahidul34@diit.info
 
 
