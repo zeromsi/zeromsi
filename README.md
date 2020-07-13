@@ -2,15 +2,19 @@
 I'm Md Shahidul Islam, currently working as a Software Engineer at Klovercloud. We're developing a PaaS.
 
 #### My skills:
-- Backend: JAVA, Spring boot, Go.
-- Frontend: Js, Angular,TypeScript.
-- Database: MySQL, Oracle, Mongo,PostGreSQL.
-- Container orchestration: Kubernetes, Openshift.
-- CI/CD: Jenkins, Tektoncd, Git,Nexus, SonarQube.
-- Testing: JUnit, Jasmine.
-- Log Management: ELK Stack.
-- Pub-Sub/MQ: Kafka, RabbitMQ.
-- Others: Strom, Drools, Linux, Shell Scripting
+```
+{
+"backend":["Java","Spring NBoot","Go"],
+"frontend":["Js","Angular","TypeScript"],
+"database":["MySQL","Oracle","Mongo","PostGreSQL"],
+"container_orchestration":["Kubernetes","Openshift"],
+"ci/cd":["Jenkins","Tektoncd","Git","Nexus","SonarQube"],
+"testing":["JUnit","Jasmine"],
+"log_management":["ELK"],
+"pub-sub/mq":["kafka","RabbitMQ"],
+"others":["Strom","Drools","Linux","Shell Scripting"]
+}
+```
 
 ### Work experience 
 Intern (12/2017 – 03/2018)
