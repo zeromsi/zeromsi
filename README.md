@@ -1,5 +1,12 @@
+
 ### Hi there 👋
 I'm Md Shahidul Islam, currently working as a Software Engineer at Klovercloud. We're developing a PaaS.
+
+
+
+[![alt text](https://img.icons8.com/cute-clipart/50/000000/linkedin.png)](https://www.linkedin.com/in/shahidul-islams-profile/)  [![alt text](https://img.icons8.com/flat_round/50/000000/edit-file.png)](https://zerospoint.blogspot.com)  
+
+
 
 #### My skills:
 ```
@@ -15,6 +22,8 @@ I'm Md Shahidul Islam, currently working as a Software Engineer at Klovercloud. 
 "others":["Strom","Drools","Linux","Shell Scripting"]
 }
 ```
+### LeetCode profile
+- https://leetcode.com/zeromsi2
 
 ### Work experience 
 Intern (12/2017 – 03/2018)
@@ -48,8 +57,5 @@ Klovercloud, Dhaka.
 
 ## Reach me:
 - shahidul34@diit.info
-- https://leetcode.com/zeromsi2
-- https://www.linkedin.com/in/shahidul-islams-profile/
-- https://zerospoint.blogspot.com
 
 
