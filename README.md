@@ -30,7 +30,7 @@ Leads Corporation Ltd, Dhaka.
 - Developing framework components.
 - Doing PoC’s with cutting edge technologies and
 tools.
-- Taking care of our in-house openshift cluster,
+- Taking care of our on premise openshift cluster,
 writing configuration files.
 - Writing CI/CD scripts.
 - Defining policies and constraints for projects
