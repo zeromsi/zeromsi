@@ -5,10 +5,6 @@ I'm Md Shahidul Islam, currently working as a Software Engineer at Klovercloud. 
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shahidul-islams-profile/)  [![Blog Follow](https://img.shields.io/badge/BLOG-Follow-orange?color=14171A&labelColor=212121)](https://web.facebook.com/BeskoristanShahidul)  [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/BeskoristanShahidul)
 
-[![alt text](https://img.icons8.com/cute-clipart/50/000000/linkedin.png)](https://www.linkedin.com/in/shahidul-islams-profile/)  [![alt text](https://img.icons8.com/flat_round/50/000000/edit-file.png)](https://zerospoint.blogspot.com)  
-
-
-
 #### My skills:
 ```
 {
