@@ -11,7 +11,6 @@ I'm Md Shahidul Islam, currently working as a Software Engineer at Klovercloud. 
 - Log Management: ELK Stack.
 - Pub-Sub/MQ: Kafka, RabbitMQ.
 - Others: Strom, Drools, Linux, Shell Scripting
-- Concept: OOP, AOP, TDD,DDD, IAAS, PASS, SASS, DevOps
 
 ### Work experience 
 Intern (12/2017 – 03/2018)
