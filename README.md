@@ -24,7 +24,7 @@ java
 - Initial journey with SOA
 - Conceptual and practical start with TDD
 - JS, TypeScript and Angular
-- Understanding IAAS,PAAS,SAAS,Containerization
+- Understanding IaaS,PaaS,SaaS,Containerization
 and event driven architecture.
 - Basic understanding of Accounting.
 - Design and develop a general accounting system.
