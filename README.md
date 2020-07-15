@@ -8,7 +8,7 @@ I'm Md Shahidul Islam, currently working as a Software Engineer at Klovercloud. 
 #### My skills:
 ```
 {
-"backend":["Java","Spring NBoot","Go"],
+"backend":["Java","Spring Boot","Go"],
 "frontend":["Js","Angular","TypeScript"],
 "database":["MySQL","Oracle","Mongo","PostGreSQL"],
 "container_orchestration":["Kubernetes","Openshift"],
