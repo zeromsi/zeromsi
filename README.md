@@ -37,8 +37,8 @@ and event driven architecture.
 
 Software Engineer (03/2018 – 11/2019)
 Leads Corporation Ltd, Dhaka.
-- Developing framework components.
-- Doing PoC’s with cutting edge technologies and
+- Framework components development.
+- PoC’s with cutting edge technologies and
 tools.
 - Taking care of our on premise openshift cluster,
 writing configuration files.
