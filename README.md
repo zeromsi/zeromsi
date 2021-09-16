@@ -33,19 +33,19 @@ java
 - Understanding IaaS,PaaS,SaaS,Containerization
 and event driven architecture.
 - Basic understanding of Accounting.
-- Design and develop a general accounting system.
+- Designed and developed a general accounting system.
 
 Software Engineer (03/2018 – 11/2019)
 Leads Corporation Ltd, Dhaka.
-- Framework components development.
+- Framework component development.
 - PoC’s with cutting edge technologies and
 tools.
-- Taking care of our on premise openshift cluster,
-writing configuration files.
-- Writing CI/CD scripts.
-- Defining policies and constraints for projects
-those will use our framework components.
-- Helping my architect in designing
+- Took care of our on premise openshift cluster,
+wrote configuration files.
+- Wrote CI/CD scripts.
+- Defined policies and constraints for projects
+those used our framework components.
+- Helped my architect in designing
 microservices.
 
 Software Engineer (12/2019 – present)
