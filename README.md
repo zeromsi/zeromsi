@@ -48,8 +48,17 @@ those used our framework components.
 - Helped my architect in designing
 microservices.
 
-Software Engineer (12/2019 – present)
+Software Engineer (12/2019 – 09/2022)
 Klovercloud, Dhaka.
-- Developing a PaaS.
+- PaaS Development.
+- Played with kubernetes API.
+- Contributed in the development of a CI/CD tool.
+
+Software Engineer (09/2022 - present)
+Opn, Bangkok.
+- Fintech.
+- Card processing.
+
+
 
 
